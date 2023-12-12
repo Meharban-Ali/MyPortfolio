@@ -1,0 +1,43 @@
+*{
+    padding: 0;
+    margin: 0;
+    border:border-box;
+}
+body{
+    background-color: darkcyan;
+}
+#heading{
+    text-align: center;
+    color: white;
+    margin-top: 100px;
+}
+#container{
+    background-color: green;
+    width: 650px;
+    height: 180px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 330px;
+    margin-top: 20px;
+}
+.main{
+    font-size: 30px;
+    text-align: center;
+    color: white;
+}
+input{
+    font-weight: bold;
+    font-size: 20px;
+    margin-left: 10px;
+    text-align: center;
+    padding: 5px;
+}
+label{
+    font-weight: bold;
+    margin-left: 10px;
+    text-align: center;
+    padding: 7px;
+
+}
+
